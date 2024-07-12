@@ -1,0 +1,6 @@
+Flask==2.0.3
+Flask-Mail==0.9.1
+Flask-Limiter==2.0.2
+Flask-CORS==3.0.10
+python-dotenv==0.19.2
+Werkzeug==2.0.3
